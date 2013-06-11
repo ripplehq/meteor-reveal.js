@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Reveal.js repackaged for Meteor.
+  summary: "Reveal.js repackaged for Meteor."
 });
 
 Package.on_use(function (api) {
